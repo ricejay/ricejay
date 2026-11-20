@@ -10,9 +10,7 @@
 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua"/>
 </p>
 
 <h2 align="center">Github Stat</h2>
